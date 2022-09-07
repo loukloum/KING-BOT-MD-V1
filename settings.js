@@ -25,7 +25,7 @@ global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = '[https://instagram.com/pr_fh_1?igshid=1nji9utqlm4nnK𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
 global.author = 'ШHłТΞ HΛϾКΞЯS'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
+global.prefa = ['','!','.','🇲🇦','⚙️','🤘']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
