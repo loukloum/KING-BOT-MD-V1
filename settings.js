@@ -29,14 +29,14 @@ global.prefa = ['','!','.','🇲🇦','⚙️','🤘']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
+    admin: 'هاد لميزة ديال اصاط هيࢪ ديال ادمين😻!',
+    botAdmin: 'لبوت هير ديال ادمين ازبي😻!',
+    owner: 'هادي نقدࢪ نديࢪها هيࢪ انا ماشي نتا هه!',
+    group: 'هادي ديࢪها فالڪࢪوبات ماشي هنا هه!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    wait: 'تسنا دقيقة...',
+    error: 'خطأ وقلة دࢪتي شي قلوة ماشي هي هاديك🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
